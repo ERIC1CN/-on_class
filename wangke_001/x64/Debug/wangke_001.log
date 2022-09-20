@@ -1,0 +1,6 @@
+﻿  有关圆的计算.cpp
+C:\TOM\Hexin\华电\Gaojichengxuyuyan\wangke_001\有关圆的计算.cpp(19,94): error C2064: 项不会计算为接受 1 个参数的函数
+C:\TOM\Hexin\华电\Gaojichengxuyuyan\wangke_001\有关圆的计算.cpp(19,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\TOM\Hexin\华电\Gaojichengxuyuyan\wangke_001\有关圆的计算.cpp(19,9): message : 占位符和其参数预计 4 可变参数，但提供的却是 0 参数
+C:\TOM\Hexin\华电\Gaojichengxuyuyan\wangke_001\有关圆的计算.cpp(19,9): message : 缺失的可变参数 1 为格式字符串“%f”所需
+C:\TOM\Hexin\华电\Gaojichengxuyuyan\wangke_001\有关圆的计算.cpp(13,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
